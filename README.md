@@ -53,7 +53,7 @@ Then open:
 This project was created collaboratively by:
 
 - **Trishabalakrishna**
-- **vars04**  
+- **Varhss04**  
 - **ananyaschandan**
 
 (Add their GitHub usernames once you add them as collaborators.)
