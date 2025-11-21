@@ -52,7 +52,7 @@ Then open:
 
 This project was created collaboratively by:
 
-- **Trishabalakrishna** (Lead Developer / Blender Modeler)  
+- **Trishabalakrishna**
 - **vars04**  
 - **ananyaschandan**
 
